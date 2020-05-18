@@ -93,7 +93,7 @@ network_list = network_list(tempidx2,:);
 
 %%
 disp('write txt......')
-network_list(:,3)=[];
+network_list(:,3)=[]; % for Louvain. Keep colum 3 for if for Infomap
 outtxt_name2=strcat('./gen-louvain/input/1km_16layers_k399_CPU.txt');
 tic
 fileID = fopen(outtxt_name2,'w');
