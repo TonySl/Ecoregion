@@ -31,6 +31,7 @@ Email    : jean-loup.guillaume@lip6.fr
 Location : Paris, France
 Time	 : July 2013
 
+Modified by Shengli Tao in 2018. sltao1990@gmail.com
 -----------------------------------------------------------------------------
 
 Disclaimer:
