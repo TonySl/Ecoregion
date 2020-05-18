@@ -1,5 +1,5 @@
-% Matlab codes to generate undirected network file from earth observation data or species occurance data for Louvain or Infomap.
-% Shengli Tao. 2018
+% Matlab codes to generate undirected network file from earth observation or species occurance data for Louvain and Infomap.
+% Shengli Tao. 2018. sltao1990@gmail.com
 
 clc
 clear
