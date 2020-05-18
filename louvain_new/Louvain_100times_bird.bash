@@ -4,13 +4,14 @@
 
 ./convert -i ./input/BIRD_10km_Louvain.txt -o ./input/BIRD_10km.bin
 
-
-export itime=101
-export ntime=130
+# changing t values from 1 to 100
+export itime=1
+export ntime=100
 
 
 while [ ${itime} -le ${ntime} ]; do
-
+	
+	# repeat 100 times for each t value
 	export try_id=1
 	export nst=100
 
