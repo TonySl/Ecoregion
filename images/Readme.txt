@@ -1,1 +1,1 @@
-Some images to show.
+Cover image.
