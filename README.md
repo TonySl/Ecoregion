@@ -3,4 +3,4 @@ Source codes for generating ecoregions with earth observation data and network c
 
 
 
-![Ecoregion mapping procedure](images/Amazonia_v1.tif)
+![Ecoregion mapping procedure](images/Amazonia_v1.png)
